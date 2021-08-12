@@ -1,2 +1,3 @@
 # SolucionAlgoritmica
-Programación en C/C++/C# para la materia de Programación 1 del grupo 1153
+Programación en Python para la materia de Solución Algoritmica de Problemas 
+1153 - MAC - UNAM
